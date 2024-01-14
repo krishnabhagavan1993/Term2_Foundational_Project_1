@@ -1,0 +1,382 @@
+Age,Gender,Location,Season_Preference,Season_Food_Preference,Mood_Preference,Mood_Food_Preference,Allergies,Allgery_restriction,Diet_Preference,Smell_Preference,Smell_restriction,Cuisine_Fav,Spice_Pref,Has_Food_Allergies,Mood_Spice_preference
+18-24,Woman,South India,Winter,chicken biryani,Relaxed,fruit salad,No,,Ovo-Vegetarians(Egg + Veg),No,,"biryani, cakes, fruit",medium spicy,0,fruit salad - Medium-spicy
+25-34,Man,South India,Winter,soups,Stressed,desserts,No,Na,Ovo-Vegetarians(Egg + Veg),No,,"South Indian
+Chinese
+Italian",spicy,0,desserts - SpicyÊ
+35-44,Woman,South India,Summer,rainy - soups summers - salads winter - chopsuey,Happy,cakes ice creams soups,No,,Non-Vegetarian,No,,"Chinese, Italian, South Indian ",spicy,0,cakes ice creams soups - SpicyÊ
+25-34,Woman,East India,Winter,winter - grilled chicken,Relaxed,chicken pop corn,No,,Non-Vegetarian,No,,Indian ,medium spicy,0,chicken pop corn - Medium-spicy
+35-44,Woman,South India,Winter,dosa,Happy,samosa,No,.no,Vegetarian,Yes,Fish,South Indian ,spicy,0,samosa - SpicyÊ
+18-24,Woman,North India,Rainy,rainy - chai and pakodas summer - sandwich winter - jalebi/brownie/gulab jamun,Stressed,brownies,No,,Non-Vegetarian,Yes,Fish Smell,Pastas/Pizzas/,medium spicy,0,brownies - Medium-spicy
+25-34,Man,South India,Summer,biriyani,Relaxed,relaxed non veg meals and dessert,Yes,Ladies finger ,Vegetarian,No,Dry fish ,"Indian, Italian, European ",spicy,1,relaxed non veg meals and dessert - SpicyÊ
+25-34,Woman,South India,Winter,roti and maggi,Stressed,cake,No,,Vegetarian,Yes,"Fish, sea food ","North Indian, continental, American fast food ",medium spicy,0,cake - Medium-spicy
+25-34,Man,West India,No Preference;,"rainy season - fritters, roasted corn cob winter - hot soups",Relaxed,chicken curry rice,No,,Non-Vegetarian,No,,"North Indian,
+Indo Chinese,
+Maharastrian",spicy,0,chicken curry rice - SpicyÊ
+45-54,Man,East India,Winter;,hot sambar rice,Relaxed,south indian food,No,,Vegetarian,Yes,Raw meat smell ,"Pav Bhaji , South Indian meals , Parata with kuruma",mild,0,south indian food - Mild
+25-34,Woman,South India,Winter,winter - biriyani,Happy,happy chocolate,No,,Vegetarian,No,,"Biriyani
+Curd rice
+Parupu saadham",spicy,0,happy chocolate - SpicyÊ
+55-64,Man,South India,Rainy;,rainy season hot spicy like bonda or bajji,Happy,happy hot coffee,No,,Vegetarian,No,Non veg ,Curd rice chapathi and dosa ,medium spicy,0,happy hot coffee - Medium-spicy
+25-34,Woman,South India,Winter;,rainy ice cream,Stressed,stress chocolate,No,,Vegetarian,No,,Chinese South Indian and north indian ,spicy,0,stress chocolate - SpicyÊ
+45-54,Man,South India,Summer,"rainy - onion bujji, mysore bonds and kutty samosa",Relaxed,mushroom fried rice baby corn,No,No,Vegetarian,No,Nothing ,South Indian ,medium spicy,0,mushroom fried rice baby corn - Medium-spicy
+35-44,Man,East India,Winter;,all time favourite chicken biryani,Happy,happy chicken biryani,No,,Vegan,No,,Non veg Indian ,mild,0,happy chicken biryani - Mild
+25-34,Man,West India,No Preference;,anything,No Influence,anything,No,,Ovo-Vegetarians(Egg + Veg),Yes,Dry fish,Anything ,spicy,0,anything - SpicyÊ
+25-34,Man,West India,Winter;,continental - during winters,Happy,none,No,,Non-Vegetarian,Yes,Sea Fish,"Continental
+Indian
+Chinese",spicy,0,none - SpicyÊ
+35-44,Woman,North India,Winter;,pad thai noodle for every season,Happy,anything good in taste raj kachori,No,,Vegetarian,Yes,Fish ,"Chinese, kumaoni and Punjabi food",medium spicy,0,anything good in taste raj kachori - Medium-spicy
+35-44,Man,South India,Summer,"nonveg (chicken, mutton) , cold drink, ice cream. barbeque",Relaxed,in relax time we always plan for non vegetarian food and cold drink,Yes,Pronce fish ,Ovo-Vegetarians(Egg + Veg),No,,Both veg and non veg,mild,1,in relax time we always plan for non vegetarian food and cold drink - Mild
+25-34,Woman,South India,Winter;Rainy;,"rainy and winter season - ice creams, hot fried items, tea, spicy food",Stressed,ice cream,No,,Non-Vegetarian,Yes,Sea Food,"South Indian, Chinese, Italian",medium spicy,0,ice cream - Medium-spicy
+25-34,Man,South India,Winter;Rainy;Summer;,biriyani,Relaxed,biriyani,No,,Ovo-Vegetarians(Egg + Veg),Yes,All sea food ,"Biriyani
+Fried Chicken
+Wraps",mild,0,biriyani - Mild
+25-34,Man,South India,Winter;,"winter - veg (bhaji, vada)",No Influence,stressed tea,No,No,Nut-Free,No,,"Chappathi, Doosa and Idly",medium spicy,0,stressed tea - Medium-spicy
+25-34,Man,South India,Winter;,hot and spicy items,No Influence,carrot halwa with icecream in happy mood,No,,Non-Vegetarian,No,,"South Indian
+North Indian
+Chinese ",mild,0,carrot halwa with icecream in happy mood - Mild
+35-44,Man,South India,Winter;,"rainy season - vada, bajji and hot tea",Happy,sweets,No,,Vegetarian,Yes,"Dried fish, masala","South Indian, millet based food, rajasthani ",mild,0,sweets - Mild
+55-64,Man,South India,No Preference;,spicy foods,No Influence,fast foods,No,,Vegetarian,No,,"South Indian, North Indian & Chinese Cuisine ",spicy,0,fast foods - SpicyÊ
+25-34,Man,South India,Winter;,winter - tea with cookies,No Influence,happy briyani,No,,Non-Vegetarian,No,,"Briyani
+Curd Rice
+Idly
+",medium spicy,0,happy briyani - Medium-spicy
+35-44,Man,South India,Winter;,rain and romantic,Happy,biriyani,No,,Non-Vegetarian,No,,Turkish Italian and Indian ,spicy,0,biriyani - SpicyÊ
+45-54,Woman,South India,No Preference;,"soups in rainy season,juices n icecreams in summer,french fries,samosas in winter",Happy,anything available or freshly cooked,Yes,Milk,Dairy Free,No,,Orientatal or Pan Asian ,spicy,1,anything available or freshly cooked - SpicyÊ
+35-44,Man,South India,Winter;,potato bonda,Happy,biryani,No,,Non-Vegetarian,No,None,"Indian, Italian and Korean",spicy,0,biryani - SpicyÊ
+35-44,Man,South India,No Preference;,rainy - baji bonda,No Influence,all time chocolates,No,,Non-Vegetarian,No,,"Indian, pan Asian, american",spicy,0,all time chocolates - SpicyÊ
+25-34,Woman,South India,Winter;,winter - some hot starters like gobi manchurian,Happy,some hot soups,No,Nope,Vegetarian,No,Nothing like ,"In starters paneer tikka, dishes : malai kofta, hydrabadi biryani",medium spicy,0,some hot soups - Medium-spicy
+25-34,Woman,South India,Rainy;,rainy - hot spicy veggie soups,No Influence,mood doesnt influence my food choices,No,,Ovo-Vegetarians(Egg + Veg),Yes,Sea food smell,Indian,spicy,0,mood doesnt influence my food choices - SpicyÊ
+45-54,Man,South India,Winter;,local cuisine,Happy,sweet,No,,Vegetarian,No,Non veg ,"Bhakri , bhat , zunka ",spicy,0,sweet - SpicyÊ
+25-34,Prefer not to say,South India,Winter;,corn starters,Stressed,fried rice veg manchuria crispy corn,No,,Vegetarian,Yes,Any Non Veg item,Only Indian Veg foods,medium spicy,0,fried rice veg manchuria crispy corn - Medium-spicy
+25-34,Man,South India,Summer;Winter;Rainy;,rainy - rum and chicken salads winter - brandy and vegetable salads summer - beer and vegetable salads,Excited,sushi,No,,Non-Vegetarian,No,,"Japanese
+Vietnamese
+Indian",medium spicy,0,sushi - Medium-spicy
+35-44,Man,South India,Rainy;,masala vadai,No Influence,junk food items,No,,Non-Vegetarian,No,,"Sea food
+Mutton
+Chicken",medium spicy,0,junk food items - Medium-spicy
+25-34,Man,South India,Winter;,chicken mutton duck,Happy,mutton,No,,Non-Vegetarian,No,,"South 
+North
+Chinese ",medium spicy,0,mutton - Medium-spicy
+18-24,Woman,South India,Winter;,rainy season - rasam and chicken fry,Stressed,maggie,No,,Non-Vegetarian,No,,"South Indian
+Italian
+Chinese ",spicy,0,maggie - SpicyÊ
+25-34,Woman,North India,Summer;,for summers it has to be salads for me!,Happy,very subjectivedepends on what i feel like having that day,No,,Dairy Free,No,,"Thai,Indian and Japanese",mild,0,very subjectivedepends on what i feel like having that day - Mild
+35-44,Woman,South India,Summer;,"rainy season - pakoda, masal vada, hot coffee or tea summer - lassi, roohufsa",Stressed,pizza or nuggets,No,,Non-Vegetarian,No,"Raw fish prawn, meat ","Chettinadu
+Chinese
+North indian",medium spicy,0,pizza or nuggets - Medium-spicy
+25-34,Woman,South India,Rainy;,veg biriyani,Relaxed,ice cream cake,No,,Vegetarian,No,,"Salad
+Biryani
+Non garlic",medium spicy,0,ice cream cake - Medium-spicy
+35-44,Man,South India,Winter;,winter - non vegetarian food,Happy,happy biryani,No,,Vegan,No,,"Biryani, south indian meals, breakfasts",medium spicy,0,happy biryani - Medium-spicy
+25-34,Man,South India,Winter;,fish and nonveg biriyani,Relaxed,cooldirings,No,,Dairy Free,No,,Cake,medium spicy,0,cooldirings - Medium-spicy
+35-44,Man,South India,Winter;Rainy;,"rainy pakoda, bajji, spicy traditional chats. summer - cool drinks like sharabhath, lassi, curd rice, masala butter milk",Relaxed,happy chats,No,,Vegetarian,Yes,"Don't like non veg smells like fish, chicken ",South Indian ,spicy,0,happy chats - SpicyÊ
+25-34,Man,South India,No Preference;,"in rainy - hot chicken soup, mushroom fry",No Influence,stressed cup of tea,No,,Non-Vegetarian,No,,"Beef curry, prawn biryani and beef biryani ",mild,0,stressed cup of tea - Mild
+25-34,Woman,South India,No Preference;,summer - cool falooda rainy - sweet corn with spices,Happy,happy chocolate lava cake,No,,Ovo-Vegetarians(Egg + Veg),No,,"Cakes
+Paneer dishes
+Fruit salads",medium spicy,0,happy chocolate lava cake - Medium-spicy
+35-44,Man,South India,Winter;,sambar rice,Excited,ice cream,No,,Pescetarians (Sea Food + Veg),No,Fish smell,"Mac and cheese
+Egg rice
+Sambar rice",spicy,0,ice cream - SpicyÊ
+25-34,Man,South India,Winter;,non - veg always,Happy,mandi biryani,No,,Gluten Free,No,,"See food, Desert ",spicy,0,mandi biryani - SpicyÊ
+25-34,Man,South India,Rainy;,all time favourite coffee,Happy,sad grill chicken,No,,Non-Vegetarian,No,,All Biriyani's,spicy,0,sad grill chicken - SpicyÊ
+25-34,Man,South India,Winter;,"chicken, biryani, more - chicken",Relaxed,chicken biryani,No,No,Gluten Free,No,,"Sea food, city biryani, kasmiri wazwan",spicy,0,chicken biryani - SpicyÊ
+45-54,Man,South India,Winter;Rainy;,rain season veg and winter season fish,Happy,happyfish fry,No,,Gluten Free,No,,"Fish Masala,
+Paneer Tikka Masala,
+Veg kolaouri",medium spicy,0,happyfish fry - Medium-spicy
+25-34,Man,South India,No Preference;,"summer - manga sambar, seasonal fruits",Sad,it depends something which i hate to have like fried rice or junks but mostly rare,No,,Non-Vegetarian,No,,"South indian, mexican & punjab",medium spicy,0,it depends something which i hate to have like fried rice or junks but mostly rare - Medium-spicy
+35-44,Man,South India,Rainy;,rainy winter spicy veg summer veg salads,Happy,happy all type foods with less sugar,No,,Vegetarian,No,,"South Indian 
+
+Ragi Balls or Any relate food of ragi 
+Sprouts with chapti
+Ice cream with jamoon",spicy,0,happy all type foods with less sugar - SpicyÊ
+35-44,Man,South India,Winter;,rainy pokoda,Stressed,bajji,No,,Vegetarian,Yes,No,"Chettinad
+Tandoori
+Chinese ",mild,0,bajji - Mild
+25-34,Man,South India,Winter;,sizzler,Relaxed,chinese,No,,Ovo-Vegetarians(Egg + Veg),No,,"Chinese
+Andhra meals
+Italian",spicy,0,chinese - SpicyÊ
+45-54,Man,West India,Winter;,veg pacoda,Happy,gharam mirchi bajiya,No,,Gluten Free,No,,"Puran poli
+Mutton grevi
+Dal khichdi and ghee",spicy,0,gharam mirchi bajiya - SpicyÊ
+35-44,Man,South India,No Preference;,winter soups,Relaxed,hot n sour soup,No,,Non-Vegetarian,Yes,,"Dosa
+Briyani 
+Chicken ",mild,0,hot n sour soup - Mild
+25-34,Man,West India,Summer;,"summer icecreams and juices , winter samosa without onion garlic and from specific shops rainy season dal poli!!!!",Happy,paani poori,No,,Vegetarian,Yes,"Smell of meat, Onion Garlic!!! ","Jain 
+South food pure vegetarian
+Mysore vegtarian food ",spicy,0,paani poori - SpicyÊ
+45-54,Man,South India,Winter;Rainy;,local authentic,Happy,chocolate,No,,Vegetarian,Yes,Fish smell ,"Local Authentic 
+Unique cuisines like Pizza / Sandwiches. 
+Biryani ",medium spicy,0,chocolate - Medium-spicy
+25-34,Woman,South India,No Preference;,nothing special,Stressed,no veg items,No,,Non-Vegetarian,Yes,Foul smell,"Biriyani 
+Mutton gravy
+Tomato rice",medium spicy,0,no veg items - Medium-spicy
+25-34,Man,South India,Summer;,chicken pakoda,No Influence,cream bun,No,,Non-Vegetarian,No,,"Country chicken,mutton, fish ",medium spicy,0,cream bun - Medium-spicy
+55-64,Man,South India,Winter;,summer - salads winter - potato stuffed chapati rainy - tea and veg fritters,Happy,happy sweets,No,,Vegetarian,No,,"1-Dal rice
+2-Chapati and potato fry
+3- sweets
+",mild,0,happy sweets - Mild
+18-24,Woman,South India,Winter;,winter - gajar ka halwa summer - mango shikran rainy - pakodas,Happy,gulab jamun,No,,Vegetarian,Yes,Choclate perfumes,"Maharashtrian food
+South Indian 
+Konkani ",medium spicy,0,gulab jamun - Medium-spicy
+25-34,Man,West India,Winter;,non veg for all seasons,Happy,non veg,No,,Non-Vegetarian,No,,"South indian
+Sea food 
+Mutton",spicy,0,non veg - SpicyÊ
+18-24,Man,West India,Rainy;,paratha,Happy,monjonis,No,,Ovo-Vegetarians(Egg + Veg),Yes,Rotten egg,"Maharashtrian thali, misal , fried fish ",mild,0,monjonis - Mild
+35-44,Man,South India,Rainy;,"pakoras, staters like chicken lollypop",Happy,chocolate,No,,Pescetarians (Sea Food + Veg),No,Strong odurs ,"Indian, continental, Chinese ",medium spicy,0,chocolate - Medium-spicy
+18-24,Woman,South India,Rainy;,summer - ice creams and cold drinks winter - chai and vegetable salad,Happy,pizza,No,,Vegetarian,No,,"Son papdi, chips, KitKat chocolate ",medium spicy,0,pizza - Medium-spicy
+45-54,Man,South India,No Preference;,biryani,Stressed,biscuts,No,,Non-Vegetarian,No,,Indian,medium spicy,0,biscuts - Medium-spicy
+25-34,Man,South India,Winter;,freshly cooked food (hot) samosas,Happy,egg puffs,No,,Ovo-Vegetarians(Egg + Veg),No,,"1.North indian
+2. South indian
+",medium spicy,0,egg puffs - Medium-spicy
+35-44,Woman,South India,Summer;,"summer ice cream, faloodas, winter hot fritters",Relaxed,relaxed desserts,No,,Vegetarian,No,,"South Indian
+North Indian
+Italian",medium spicy,0,relaxed desserts - Medium-spicy
+55-64,Man,South India,No Preference;,rainy - coffee with veg starters. summer - coffee with masal vada so called indian winter - coffee with anything spicy.,No Influence,nan,Yes,Crustation Family Ie. Any sea food with shell ,Vegetarian,No,,"South Indian 
+Continental 
+Chinese ",spicy,1,nan - SpicyÊ
+35-44,Man,South India,Summer;Winter;,"winters - moong dal kichidi, dosaõs and fried maggieõs. summers - chicken, sea food",Happy,ricebiriyanipizza with ice cream,No,,Non-Vegetarian,No,,"Indian 
+Italian 
+Chinese",spicy,0,ricebiriyanipizza with ice cream - SpicyÊ
+25-34,Man,South India,Winter;Rainy;Summer;,winters - biriyani,Happy,biryani,No,,Non-Vegetarian,No,,"Indian
+Chinese
+Continental",medium spicy,0,biryani - Medium-spicy
+55-64,Man,South India,No Preference;,nothing,Excited,rava roast,No,,Vegetarian,No,,South Indian food ,mild,0,rava roast - Mild
+35-44,Woman,South India,Winter;Rainy;,coffee with mixture,Relaxed,comfort food like dal chawal,No,,Non-Vegetarian,Yes,Mustard,"North Indian , Japanese and Mediterranean ",spicy,0,comfort food like dal chawal - SpicyÊ
+35-44,Man,South India,No Preference;,rainy - fried items winter/cold weather - chicken,Stressed,stressed sweets chocolates cakes,No,,Non-Vegetarian,No,,"Chinese, Burgers, Biryanis",spicy,0,stressed sweets chocolates cakes - SpicyÊ
+25-34,Woman,South India,No Preference;,mango in summer,No Influence,sweet,No,,Non-Vegetarian,No,,"
+South Indian
+Bengali
+Punjabi 
+",medium spicy,0,sweet - Medium-spicy
+55-64,Man,South India,Winter;,hot rasam,Relaxed,pongal with chatni,No,,Vegetarian,Yes,Non veg ,Poori Pongal masala dosa ,spicy,0,pongal with chatni - SpicyÊ
+35-44,Woman,South India,Winter;,mutton paaya,Stressed,ice cream,No,,Non-Vegetarian,No,,"Hyderabadi, indo chinese, tex mex",medium spicy,0,ice cream - Medium-spicy
+25-34,Man,South India,Winter;,"summer - faluda, mangos rainy - burn corn, samosa, ice cream winter - oranges, fast food",Stressed,preparing nonveg self and eating chocolates,No,,Non-Vegetarian,No,Salt fish,"Nonveg
+Gulab jam with ice cream
+Pastries",spicy,0,preparing nonveg self and eating chocolates - SpicyÊ
+25-34,Man,South India,Winter;,"chicken tandoori, afghani chicken, tangdi kebab",Relaxed,anything which is grilled,No,,Non-Vegetarian,No,NA; Because I can't sense the smell since childhood ,"Malabari, chettinad and Goan ",medium spicy,0,anything which is grilled - Medium-spicy
+25-34,Man,South India,Rainy;Winter;Summer;,all time street food,No Influence,all kinds of food,No,,Non-Vegetarian,No,,"Biryani, street food, chapati ladies finger fry ",spicy,0,all kinds of food - SpicyÊ
+25-34,Woman,South India,Winter;Summer;,no,Excited,biryani,Yes,Lactose,Non-Vegetarian,No,,South Indian,mild,1,biryani - Mild
+25-34,Man,North India,Winter;,"winter - momos with manchow soup, veg fritters with hot masala tea.",Happy,pizza or moong dal halwa,No,,Vegetarian,No,,"Indian, Chinese and American ",medium spicy,0,pizza or moong dal halwa - Medium-spicy
+25-34,Woman,South India,Winter;,"momos, chaat",Happy,momos,No,,Ovo-Vegetarians(Egg + Veg),No,,"Chinese, South Indian, Continental",medium spicy,0,momos - Medium-spicy
+25-34,Man,North India,Rainy;,winter - gajar ka halwa rainy - maggi summer - lassi,Excited,daal chawal,No,,Vegetarian,No,,"Rajma chawal
+Mutter mushroom
+Mutter Paneer ",medium spicy,0,daal chawal - Medium-spicy
+35-44,Man,South India,Winter;Rainy;,kababs,Relaxed,dessert,Yes,Nuts,Non-Vegetarian,No,,"Dosa 
+
+Roti curry 
+
+Pizza ",mild,1,dessert - Mild
+45-54,Man,South India,Winter;,south indian during summer.. north indian food in winter,Happy,tandoori roti chapathi and curry,No,,Non-Vegetarian,Yes,Non veg cooking smell,"Tandoori Roti, Dal tadaka, Methi sabji, chapati, aloo and byendi",mild,0,tandoori roti chapathi and curry - Mild
+25-34,Man,South India,No Preference;,non veg any time,Relaxed,desert,No,,Non-Vegetarian,No,,"Local, tandoor, italina",medium spicy,0,desert - Medium-spicy
+25-34,Man,North India,Winter;,non veg fritters,Happy,,No,,Non-Vegetarian,No,,"Chikan , sweet , cake",mild,0, - Mild
+25-34,Woman,South India,Summer;Winter;,winter - spicy bhaji and samosa summer - watermelon juice and tender coconut...and sweet lazzi,Relaxed,relaxed spicy foods or chats,No,,Ovo-Vegetarians(Egg + Veg),No,,"South Indian
+Italian 
+Chinese",medium spicy,0,relaxed spicy foods or chats - Medium-spicy
+25-34,Man,South India,No Preference;,all season tea only,No Influence,tea,No,,Non-Vegetarian,No,,"South Indian meals, garlic naan ",medium spicy,0,tea - Medium-spicy
+18-24,Man,South India,Rainy;Winter;,"pav bhaji, parathe in winters, paneer rolls, shawarmas, etc..,",Stressed,pancakes with cappuccino,No,,Non-Vegetarian,Yes,"Fish, landfills, burning caramel, green tea,etc..,","Pav Bhaji, Chicken Biryani, and a good paneer curry with butter naan",spicy,0,pancakes with cappuccino - SpicyÊ
+35-44,Woman,South India,Winter;,winter - hot and spicy food summers - soups,Excited,sweets,No,,Non-Vegetarian,No,,Biryani and burgers,mild,0,sweets - Mild
+35-44,Man,South India,No Preference;,chow mein,Relaxed,black forest pastry,No,,Non-Vegetarian,Yes,Curd,Northindian Chinese,medium spicy,0,black forest pastry - Medium-spicy
+25-34,Man,South India,Winter;,winter - samosas summer - sugar cane,Relaxed,tea,No,,Non-Vegetarian,No,,"Indian
+",mild,0,tea - Mild
+18-24,Man,South India,Rainy;,"vaggani, mirchi bonda",Happy,chiken,No,,Non-Vegetarian,No,,"Shruti, kalpna, vidya",spicy,0,chiken - SpicyÊ
+18-24,Man,South India,Winter;,"winters - naan, paneer butter masala all seasons - biryani",Happy,roti ladies finger fry,No,,Non-Vegetarian,No,,"Taste wise - Indian  food - spicy - Schezwan Chicken Fried Rice
+Occasionally - Fast foods - Noodles, Fried Rice etc.
+Usual home made - Rice, Dal & Curry
+",spicy,0,roti ladies finger fry - SpicyÊ
+25-34,Man,South India,Winter;,winter - hot soups,No Influence,not applicable,No,Not applicable,Ovo-Vegetarians(Egg + Veg),Yes,"Chicken, fish","Biryani, crispy baby corn, veg dopyazz",mild,0,not applicable - Mild
+25-34,Man,South India,No Preference;,not specific for season. as per requirement and wish.,Happy,non vegetarian,No,,Non-Vegetarian,No,,"Chicken Biryani, Kabab and dry items, fish curry ",medium spicy,0,non vegetarian - Medium-spicy
+25-34,Man,South India,No Preference;,rainy days - fried foods summer days - light and easy digestive foods,Relaxed,biryani,No,,Non-Vegetarian,Yes,Dislike sea foods aroma,"Chettinad
+Punjabi
+Kerala",medium spicy,0,biryani - Medium-spicy
+25-34,Woman,South India,Winter;,winter - soups,Happy,maggi,Yes,Besan ,Vegetarian,No,,"North Indian
+Italian
+Chinese",medium spicy,1,maggi - Medium-spicy
+25-34,Woman,West India,Winter;,"rainy - onion pakoda, rainy - local mushroom sabzi winter - chicken soup (for soul __) winter - dodol which is local christmas dish summer - ice creams",Happy,happy ice cream or biryani as i feel like celebrating and i know no other way to celebrate then to order food,No,,Non-Vegetarian,No,,"1. Biryani and Kadi chawal- mostly all rice dishes
+2. Ice creams and creamy desserts like mousse 
+3. Chicken tandoori
+
+
+Mostly i love Indian,  Italian and Thai Cuisine. ",spicy,0,happy ice cream or biryani as i feel like celebrating and i know no other way to celebrate then to order food - SpicyÊ
+35-44,Man,South India,Winter;,fish,Stressed,icecream,No,,Pescetarians (Sea Food + Veg),No,,"Chinese
+South Indian
+Punjabi",spicy,0,icecream - SpicyÊ
+45-54,Man,South India,Winter;,hot coffee,Stressed,coffee,No,,Vegetarian,Yes,Non Veg Smell,"Chats
+Pakkoda
+Soft drinks ",medium spicy,0,coffee - Medium-spicy
+25-34,Man,South India,Winter;,winter - hot pasta,Happy,happy south indian,No,,Vegetarian,No,,"South Indian
+North Indian
+Chineese",spicy,0,happy south indian - SpicyÊ
+45-54,Man,South India,Winter;,south indian dishes,No Influence,bhajji nd pakoda,No,No,Non-Vegetarian,Yes,Meat ndbfish smell,"Idli, white Pongal with sambar nd chutney nd curd rice",medium spicy,0,bhajji nd pakoda - Medium-spicy
+35-44,Woman,South India,Rainy;,spicy during rainy season. cold food in summer,Stressed,chocolate,No,,Pescetarians (Sea Food + Veg),No,,"Sea food, authentic south Indian and pastries",medium spicy,0,chocolate - Medium-spicy
+35-44,Woman,South India,No Preference;,"veg n non - vegetarian fritters, corn fried, chana, coffee and tea",No Influence,all moods crave for lean meat coffee n tea,No,No,Non-Vegetarian,No,Gutter smell,"Spicy, confectionery and coffee across all cuisines",spicy,0,all moods crave for lean meat coffee n tea - SpicyÊ
+35-44,Woman,South India,No Preference;,"biryani any time,any season. hyderabadi biryani to b specific. mirchi bajji on a cold evening",Happy,biryani,No,,Non-Vegetarian,No,,"Hyderabadi cuisine
+Indian
+Italian",spicy,0,biryani - SpicyÊ
+25-34,Woman,South India,Winter;,kebabs,Happy,ice cream,No,,Non-Vegetarian,No,,"Grill , south indian , steamed",medium spicy,0,ice cream - Medium-spicy
+25-34,Man,Central India,Winter;,winter - chicken biryani,Happy,relaxed ice cream,No,,Non-Vegetarian,No,,Indian Chinese Italian ,spicy,0,relaxed ice cream - SpicyÊ
+45-54,Prefer not to say,South India,Rainy;,qb definitely,Stressed,mava,No,Ty,Pescetarians (Sea Food + Veg),No,Gknbb,Ghnj,mild,0,mava - Mild
+25-34,Man,Central India,Winter;,winter - chicken soup,Relaxed,desserts,No,,Non-Vegetarian,No,,"1. Fish
+2.Chicken
+3.Paneer ",medium spicy,0,desserts - Medium-spicy
+18-24,Man,West India,Rainy;Winter;,masala dosa,Happy,dosa and aalo ka paratha,No,,Non-Vegetarian,No,,India cuisine,mild,0,dosa and aalo ka paratha - Mild
+18-24,Man,West India,Winter;,"chicken biryani, vada pav",Happy,chicken tandoori,No,,Non-Vegetarian,No,,"Italian
+Indian
+Mexican",spicy,0,chicken tandoori - SpicyÊ
+25-34,Man,South India,Winter;,nothing,Happy,no,No,,Non-Vegetarian,Yes,Seafood smell,"Indian, French and Chinese",mild,0,no - Mild
+25-34,Man,East India,Summer;Winter;Rainy;,"dosa, vada sambhar, chicken biryani, mutton briyani",No Influence,frankie shawarma,No,,Non-Vegetarian,No,,"Vada Sambhar
+Chicken Biryani
+Paneer tikka masala ",medium spicy,0,frankie shawarma - Medium-spicy
+25-34,Man,East India,Winter;,winter - biryani,Happy,biryani,No,no,Non-Vegetarian,No,no,pavbhaji biryani shawarma,medium spicy,0,biryani - Medium-spicy
+25-34,Man,West India,Winter;,"winter - - (veg) - daal makhni, paneer. non - veg - tandoori, chicken lollipop.",Relaxed,relaxed mutton biryani,No,,Pescetarians (Sea Food + Veg),No,Dried fish.,"Chicken lollipop, Mutton biryani, Dal makhni.",mild,0,relaxed mutton biryani - Mild
+25-34,Man,Central India,Winter;,biryani,Relaxed,brownie,No,,Non-Vegetarian,No,,italian,spicy,0,brownie - SpicyÊ
+25-34,Man,West India,Winter;,rainy - vada pav and pakodas summer - milkshakes and lime juice,No Influence,nan,No,,Non-Vegetarian,No,,"Sea food, butter chicken and chicken kebab",medium spicy,0,nan - Medium-spicy
+25-34,Man,South India,Summer;,summer - prawns ghee roast,Happy,happychicken biriyani,No,,Non-Vegetarian,No,,"Mexican, Vietnamese, Indian ",medium spicy,0,happychicken biriyani - Medium-spicy
+25-34,Man,West India,Winter;,butter chicken chicken kebab pav bhaji,Happy,desserts,No,,Non-Vegetarian,No,,"Butter Chicken
+Chicken Kebab
+Pav Bhaji",medium spicy,0,desserts - Medium-spicy
+18-24,Woman,North India,Winter;,winter - gajar ka halwa.,Stressed,chocolates,Yes,Dahi,Vegetarian,Yes,Dried Fish ,"Panipuri
+Shahi paneer 
+Momos ",medium spicy,1,chocolates - Medium-spicy
+25-34,Man,East India,Winter;,tandoori,Happy,dark chocolate,Yes,Acidity   ,Dairy Free,No,Beer smell,Indian ,mild,1,dark chocolate - Mild
+18-24,Woman,East India,Winter;,winter - haldi ki sabji,Happy,happypanipuri,No,,Vegetarian,No,,"Chinese,Indian ",spicy,0,happypanipuri - SpicyÊ
+18-24,Man,West India,Rainy;Winter;,rainy - hot coffee and tea,Happy,happy non veg,No,,Non-Vegetarian,No,,"Puran poli, chienese, chicken butter masala",medium spicy,0,happy non veg - Medium-spicy
+18-24,Woman,West India,No Preference;,summer - medium spicy food winter - spicy food,Happy,every problems one solution is sweet food,No,,Non-Vegetarian,No,,"Italian
+North Indian
+French
+",mild,0,every problems one solution is sweet food - Mild
+25-34,Woman,West India,Winter;,"winter - hot chocolate, soups, pizza",Happy,dark chocolate brownie,Yes,Mushroom ,Non-Vegetarian,No,,"Italian
+Chinese
+Indian",spicy,1,dark chocolate brownie - SpicyÊ
+25-34,Man,West India,Winter;,winter - hot chocolate,No Influence,not applicable,No,,Non-Vegetarian,No,,"Mediterranean, Mughlai, Thai",medium spicy,0,not applicable - Medium-spicy
+25-34,Man,West India,Winter;,winter - old monk.,Happy,happy cakes,No,,Vegetarian,No,,"Indian
+Italian
+Thai",medium spicy,0,happy cakes - Medium-spicy
+18-24,Woman,South India,Winter;,summer - icecream and falooda,Stressed,sad anything will do,No,No,Non-Vegetarian,No,No,"Indian
+Chinese
+Fast food ",medium spicy,0,sad anything will do - Medium-spicy
+18-24,Woman,West India,Summer;,winter - carrot halwa,Stressed,dark chocolate,No,,Ovo-Vegetarians(Egg + Veg),No,,"Biryani, Bisi Bele Bath, Pav Bhaji",medium spicy,0,dark chocolate - Medium-spicy
+25-34,Man,West India,Summer;Winter;Rainy;,non veg,Happy,mutton,No,,Non-Vegetarian,No,,Indian Chinese South Indian ,spicy,0,mutton - SpicyÊ
+25-34,Man,West India,Winter;,tandoori,Relaxed,bbq corn,No,,Vegetarian,No,,Maharashtrian Food,medium spicy,0,bbq corn - Medium-spicy
+25-34,Man,West India,Winter;,chinese and fast food,Relaxed,relaxed coke and fries,No,,Non-Vegetarian,No,,"Chinese
+Fast food
+South Indian",medium spicy,0,relaxed coke and fries - Medium-spicy
+25-34,Man,South India,Winter;,"winter - momos, soups, chai, banana fritters",Relaxed,relaxed biriyani beer,No,,Non-Vegetarian,No,,"South Indian 
+Chinese 
+Continental ",medium spicy,0,relaxed biriyani beer - Medium-spicy
+25-34,Man,North India,Winter;,sitafal shekh,Excited,chocolate,No,,Vegetarian,No,,Idali samosa chana,mild,0,chocolate - Mild
+35-44,Woman,West India,Rainy;,pakodas,Happy,aloo pakoda,No,,Non-Vegetarian,No,,"Biryani
+Burger 
+Momos",medium spicy,0,aloo pakoda - Medium-spicy
+45-54,Woman,Central India,Winter;,wada pav,Happy,soup,No,,Non-Vegetarian,No,,"Wada pav
+Red velvet cake
+Chaines",spicy,0,soup - SpicyÊ
+18-24,Woman,West India,No Preference;,winter - warm soups,Happy,happy ice cream,No,,Non-Vegetarian,No,," Indian, Chinese, Italian 
+
+",medium spicy,0,happy ice cream - Medium-spicy
+25-34,Man,South India,Rainy;,rainy - south indian spicy food,Relaxed,relaxed biryani,No,,Non-Vegetarian,No,,"1.South Indian Dishes: Biryani  2. Sweets/Desserts : Gulab Jamoon, Halwa",spicy,0,relaxed biryani - SpicyÊ
+25-34,Man,West India,Winter;,"hot soup, hot chocolate",Happy,spicy hot,No,,Non-Vegetarian,No,,"Chicken, fish & mix veg",spicy,0,spicy hot - SpicyÊ
+18-24,Woman,North India,Winter;,pavbhaji,Excited,excited eggbirayani,No,,Ovo-Vegetarians(Egg + Veg),No,,"Spicy foods 
+Pizza 
+Biryani ",spicy,0,excited eggbirayani - SpicyÊ
+18-24,Man,South India,No Preference;,winter - pepper chicken,No Influence,chicken,No,,Pescetarians (Sea Food + Veg),No,,"Asian
+Italian 
+French ",spicy,0,chicken - SpicyÊ
+35-44,Woman,South India,No Preference;,"rainy - plantain fritters, hot tea",No Influence,happy chocolate,No,,Ovo-Vegetarians(Egg + Veg),Yes,Fish smell,No preference ,medium spicy,0,happy chocolate - Medium-spicy
+25-34,Woman,West India,Winter;Rainy;,"winter - hot and spicy soups, ginger tea. rainy - tea with pakoda, baji.",Happy,chocolate ice cream,No,,Non-Vegetarian,No,,"Indian, Chinese and Italian ",medium spicy,0,chocolate ice cream - Medium-spicy
+18-24,Woman,West India,Winter;,winters - chicken tandoori,Happy,happy chicken tandoori,Yes,,Non-Vegetarian,Yes,Egg,"Chicken, fish, icecream ",medium spicy,1,happy chicken tandoori - Medium-spicy
+25-34,Man,West India,Winter;Rainy;,"spicy food, dal tadka",Happy,favorite vegetarian food,No,,Ovo-Vegetarians(Egg + Veg),No,,"Eggs,  veg and non veg",medium spicy,0,favorite vegetarian food - Medium-spicy
+25-34,Man,West India,Winter;,no,Relaxed,relaxed egg biryani or chicken biryani,Yes,Acidity ,Ovo-Vegetarians(Egg + Veg),Yes,Fish Smell And Milk Products Smell,"Egg Biryani
+Chhole
+Rice And Daal",mild,1,relaxed egg biryani or chicken biryani - Mild
+25-34,Man,South India,Rainy;Winter;,"fish fry, kori rotti, chicken sukka.",Relaxed,icecream,No,,Non-Vegetarian,No,,"South Indian cuisine,  sea food.",medium spicy,0,icecream - Medium-spicy
+25-34,Man,East India,No Preference;,no,Happy,prefer to eat sweets,No,,Vegetarian,No,,"South Indian Dish
+Home made food
+
+",spicy,0,prefer to eat sweets - SpicyÊ
+25-34,Man,West India,No Preference;,dal rice,Relaxed,spicy,No,,Vegetarian,Yes,Fish,"Indian, chinese",medium spicy,0,spicy - Medium-spicy
+25-34,Man,North India,Winter;Summer;,pakodas. panner tikka etc,Happy,water balls,No,Na,Vegetarian,No,,North Indian.,spicy,0,water balls - SpicyÊ
+35-44,Man,West India,Winter;,winter - south indian chicken roti and chicken sukka in all seasons,Happy,happy butterscotch ice cream,No,,Non-Vegetarian,No,,"South Indian, Chinese and Punjabi ",mild,0,happy butterscotch ice cream - Mild
+25-34,Woman,West India,Rainy;,fish fry,Happy,ice cream,No,,Non-Vegetarian,No,,"Chinese
+South Indian
+Italian",medium spicy,0,ice cream - Medium-spicy
+25-34,Man,West India,Winter;,chinese food,Relaxed,relaxed milkshakes and frozen desserts,No,,Non-Vegetarian,No,,"Chinese, North Indian, South Indian.",medium spicy,0,relaxed milkshakes and frozen desserts - Medium-spicy
+35-44,Woman,South India,Rainy;Winter;,"rainy - pakodas, summer - smoothies",No Influence,coffee,No,,Ovo-Vegetarians(Egg + Veg),Yes,,"American, south Indian and local cuisines ",mild,0,coffee - Mild
+18-24,Man,South India,Winter;,"winter - hot deserts,soups,ice - creams/gelato",Stressed,italian,Yes,"Spicy,jalapenos/any spicey seeds",Vegetarian,Yes,"Eggs,fish","Italian, french, South Indian ",mild,1,italian - Mild
+25-34,Man,South India,Summer;,all time biryani,Happy,happy biriyani,No,No,Non-Vegetarian,Yes,Yes  fish smell ,"1.biriyani
+2.non veg meals
+3.north indian foods",medium spicy,0,happy biriyani - Medium-spicy
+35-44,Man,South India,No Preference;,veg food only,Relaxed,any kind of sweets,No,,Vegetarian,No,,any veg food,medium spicy,0,any kind of sweets - Medium-spicy
+18-24,Man,South India,No Preference;,no,Happy,happy sweet,No,,Vegetarian,Yes,Meat smell,"Paneer dishes
+Sweets 
+Fried rice",mild,0,happy sweet - Mild
+18-24,Man,South India,No Preference;,nope,Stressed,cake,No,,Vegetarian,No,,Indian Chinese korean,spicy,0,cake - SpicyÊ
+18-24,Man,South India,Summer;,continental + mocktails,No Influence,na,No,,Vegetarian,No,,"Chinese, Indian, Italian ",medium spicy,0,na - Medium-spicy
+18-24,Woman,West India,Winter;,"summer - icecreams , deserts",Happy,happy chocolate pastry,No,,Vegetarian,Yes,Milk smell,"Indian Cuisine
+Chinese Cuisine ",medium spicy,0,happy chocolate pastry - Medium-spicy
+18-24,Man,South India,Winter;,mutton,Happy,thickshake,No,,Non-Vegetarian,No,,"Punjabi, lebenese, italian",medium spicy,0,thickshake - Medium-spicy
+18-24,Woman,West India,Winter;,french fries,Happy,shawrma,No,,Gluten Free,No,,"Indian
+Italian
+Mexican",medium spicy,0,shawrma - Medium-spicy
+25-34,Woman,South India,Winter;Rainy;,any indian food,Happy,ice cream,No,,Vegetarian,Yes,"Papaya, all non-veg , sapota, sitaphal ","Indo- Chinese 
+Indian ",spicy,0,ice cream - SpicyÊ
+25-34,Woman,East India,Winter;,cheesy chicken fritters,Stressed,belgian chocolate icecream,Yes,Apple,Non-Vegetarian,No,,"Italian, continental, South indian",spicy,1,belgian chocolate icecream - SpicyÊ
+18-24,Woman,South India,Summer;,summer - ice creams and mangoes,No Influence,cake,No,,Vegetarian,No,,"Vegetarian 
+Chinese
+Italian",spicy,0,cake - SpicyÊ
+25-34,Man,South India,No Preference;,"winter & rainy - biriyani, chicks tandoori, grill summer - more liquid and juicy food",Stressed,stressed biriyani,No,,Vegan,No,,"Chettinad
+",medium spicy,0,stressed biriyani - Medium-spicy
+35-44,Man,West India,Rainy;,kori rutti,Happy,kebabs,No,,Non-Vegetarian,No,,"Tandoori Kebabs, biryani",spicy,0,kebabs - SpicyÊ
+18-24,Man,South India,No Preference;,"pakodas,maggie,bhel",Happy,spicy food,No,,Vegetarian,No,,"Punjabi,Chinese,South Indian",medium spicy,0,spicy food - Medium-spicy
+18-24,Woman,South India,No Preference;,pani puri,Stressed,sweets,No,,Vegetarian,Yes,Paint,"South Indian, North Indian and Chinese ",spicy,0,sweets - SpicyÊ
+18-24,Man,South India,Winter;,"chai, pakoda & biryani in winter. falooda, juices, etc in summer",Happy,any sweet,No,,Non-Vegetarian,No,,"Biryani, Pizza & Chill Chicken ",medium spicy,0,any sweet - Medium-spicy
+25-34,Man,South India,Winter;,fast food,Happy,nothing,No,,Non-Vegetarian,No,,Punjab dishes,spicy,0,nothing - SpicyÊ
+18-24,Man,South India,Summer;,"seasonal fruits are preferable like mango in summer, sitaphal in rainy,etc. but when it comes to food or dishes in summer light food like curd rice by which sweat __ less in sunny day. in winter sab ka swad ek hi naam chicken tikka masala with any indian breads.when it is about rainy eating healthy is prioritised to keep good health condition.thank you santhosh's akka.",Happy,kfc,No,,Non-Vegetarian,No,,"South Indian, Chinese, Punjabi ",mild,0,kfc - Mild
+18-24,Woman,West India,No Preference;,ice creams in rainy and summer season,Happy,any fries food,No,,Pescetarians (Sea Food + Veg),No,,"Maharashtrian
+Punjabi
+Chinese",medium spicy,0,any fries food - Medium-spicy
+35-44,Woman,South India,Winter;,winter - hot coffee,Happy,happy aloo tikki,No,,Pescetarians (Sea Food + Veg),Yes,Perfume(Jasmine) ,"Butter chicken, Butter roti, Chicken kabab",spicy,0,happy aloo tikki - SpicyÊ
+25-34,Man,South India,Winter;,"rainy - vadagam, jackfruit kadubu winter - egg bonda summer - pineapple sheera",Excited,excited chicken tandoori,Yes,Uppittu,Ovo-Vegetarians(Egg + Veg),Yes,Egg smell,"Chicken tandoori
+Anjala tawa fry
+Prawns 
+Sheera",spicy,1,excited chicken tandoori - SpicyÊ
+25-34,Man,West India,Rainy;,"rainy ...pakodas with garam chai, mendu wada with garam chatani,",Stressed,stressed juice,No,,Non-Vegetarian,No,,"South Indian breakfast food
+Dal
+Chaval
+Bhajji",mild,0,stressed juice - Mild
+18-24,Man,South India,Rainy;,rainy - veg fritters (pakodas),Happy,stressed chocolate cake,No,NO,Pescetarians (Sea Food + Veg),No,Fish Smell,"TANDOORI CHICKEN,CHICKEN SUKKA,PAYASAM",spicy,0,stressed chocolate cake - SpicyÊ
+25-34,Man,South India,Summer;,icecreams,No Influence,butterscotch icecream,No,,Non-Vegetarian,No,,"Mangalorean dishes, Biriyani, Deep Fried ",mild,0,butterscotch icecream - Mild
+25-34,Man,South India,Rainy;,rainy - spicy food winter - golibaje summer - ice cream,Happy,biriyani,No,,Gluten Free,No,Bittergourd taste,"Biriyani, Panneer Kadai, Chicken tikka",spicy,0,biriyani - SpicyÊ
+35-44,Woman,South India,Winter;,"mild spicy & preferably anything in non veg, veg can also do but it should be chatpata - )",Relaxed,fried items,No,,Non-Vegetarian,No,,"Fried, mild spicy - something like chicken lollipop (when served hot), Pani puri, chapati & potato bhaji, dry fish, mostly now a days, i prefer anything healthy but sometimes crave for non healthy too",medium spicy,0,fried items - Medium-spicy
+18-24,Woman,East India,Rainy;,hot and spicy food,Happy,chocolate cake,No,,Vegetarian,No,,"Ice-cream, khaman dhokla, samosa, patara
+ ",medium spicy,0,chocolate cake - Medium-spicy
+18-24,Man,South India,Winter;,potato chips,Happy,maggie,No,,Vegetarian,No,,Spicy ,spicy,0,maggie - SpicyÊ
+18-24,Prefer not to say,South India,Rainy;,"gobi manchurian, paani puri, paneer",Happy,juice and drinks,No,,Gluten Free,No,,Gobi Manchurian ,mild,0,juice and drinks - Mild
+25-34,Man,South India,No Preference;,"rainy - hot soup, tea",Stressed,stressed processed foods pizzaburger sandwich roll,No,,Non-Vegetarian,No,,"Biriyani, idly sambar, veg meals",medium spicy,0,stressed processed foods pizzaburger sandwich roll - Medium-spicy
+35-44,Man,North India,Winter;,winterõs breakfast(sitting in sunlights) ñ methi roti with white butter,Happy,happy japanese cheese cake,Yes,Egg & mushroom ,Non-Vegetarian,No,Mutton brain curry,"Itailain
+Mediterranean 
+Mughlai",mild,1,happy japanese cheese cake - Mild
+18-24,Woman,South India,Winter;,winter - bajji summer - ice cream rainy - chat,Happy,boriyani,No,,Non-Vegetarian,No,,Indian,mild,0,boriyani - Mild
+18-24,Man,South India,No Preference;,summer - lassi rainy - pakodi any season - biryani,Relaxed,stressed something sweet,No,,Non-Vegetarian,No,,Noj veg ,spicy,0,stressed something sweet - SpicyÊ
+18-24,Man,South India,Summer;,summer mangoes __,No Influence,hungry biryani,No,,Vegetarian,No,,Southern,medium spicy,0,hungry biryani - Medium-spicy
+55-64,Man,South India,No Preference;,veg,Relaxed,veg soup,No,,Ovo-Vegetarians(Egg + Veg),No,,"Idli vada, Dosa, kichidi",mild,0,veg soup - Mild
+25-34,Man,South India,Winter;,winter - wine,Happy,wine,No,No,Non-Vegetarian,No,No,Chicken Mutton Fish ,spicy,0,wine - SpicyÊ
+25-34,Man,East India,Winter;,mainly nonveg tandoor items throughout the seasons. fried items during rainy season.,Stressed,stressed chocolates or any other dessert,No,,Non-Vegetarian,No,,"Bengali
+Indian ( North Indian and Indo-mughal)
+Mediterrasian Bistro",mild,0,stressed chocolates or any other dessert - Mild
+18-24,Woman,South India,Winter;,winter - hot soups,Happy,chocolates,No,,Vegetarian,No,,"Chinese, Indian , Mughlai",spicy,0,chocolates - SpicyÊ
+18-24,Man,South India,Summer;,"rainy season - bhaji, pakoda",Happy,relaxed sweets,No,,Ovo-Vegetarians(Egg + Veg),No,,"Donut, pizza, sweets ",spicy,0,relaxed sweets - SpicyÊ
+18-24,Woman,South India,Winter;Rainy;,"winter - night tiffins, rainy - roadside snaks, any day - biryani",Stressed,stressed sweet and chocolate happy spicy food,No,,Non-Vegetarian,No,,"South Indian, North Indian, Deserts",medium spicy,0,stressed sweet and chocolate happy spicy food - Medium-spicy
+18-24,Man,South India,Summer;,summer - chicken biryani,Excited,excited chicken biryani,No,,Non-Vegetarian,No,,"Fruits and vegetables 
+Protein 
+Fat",medium spicy,0,excited chicken biryani - Medium-spicy
+18-24,Woman,South India,No Preference;,any type of food in any season!!,Happy,chips,No,,Non-Vegetarian,Yes,Fish smell,"Indian
+Chinese 
+Italian",medium spicy,0,chips - Medium-spicy
+25-34,Woman,South India,Winter;,ya something spicy and hot,Stressed,biriyani,No,,Ovo-Vegetarians(Egg + Veg),No,,"Veg salad 
+Omlete 
+Home made Biriyani",medium spicy,0,biriyani - Medium-spicy
+35-44,Man,West India,Winter;,pork,Happy,yes,Yes,egg,Vegetarian,Yes,,veg,spicy,1,yes - SpicyÊ
+25-34,Man,West India,Winter;,"rainy - veg(dal bhat) winter - non veg(chicken, mutton) summer - fish",Relaxed,vadapav,No,,Gluten Free,No,,"Nashta-south indian
+Lunch- maharastrian
+Dinner- chinese",medium spicy,0,vadapav - Medium-spicy
+25-34,Woman,South India,Winter;,vada pav,Stressed,butterscotch cake,No,No allergies,Non-Vegetarian,No,No,Spicy,spicy,0,butterscotch cake - SpicyÊ
